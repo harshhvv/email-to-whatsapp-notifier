@@ -1,0 +1,7 @@
+# Gmail settings
+GMAIL_USERNAME = ''
+GMAIL_PASSWORD = ''
+SEARCH_TEXT = ''
+
+# Phone numbers
+NUMBER2 = '+91XXXXXXXXXX'  # The phone number where you want to receive WhatsApp messages

@@ -1,0 +1,4 @@
+.env
+*.txt
+.hypothesis/
+script2.py
