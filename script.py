@@ -64,8 +64,8 @@ def search_text_in_attachments(msg):
     return False
 
 # Monitor Gmail for the latest email
-def monitor_gmail(username, password):
-    mail = connect_to_gmail(username, password)
+def monitor_gmail():
+    mail = connect_to_gmail()
     prev_subject = ""
     while True:
         if mail:
